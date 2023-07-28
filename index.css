@@ -158,12 +158,12 @@ color: black;} */
   align-self: flex-start;
 }
 
-/* #ModelSbuttonContainer{display: flex;
+#ModelSbuttonContainer {
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  justify-content: space-between; */
-  
+  justify-content: space-between;
 }
 #ModelY {
   background-image: url("	https://digitalassets.tesla.com/tesla-contents/ima…_auto,q_auto:best/Homepage-Model-Y-Global-Desktop");
@@ -201,8 +201,6 @@ color: black;} */
   background-color: rgba(244, 244, 244, 0.8);
   font-size: 14px;
   color: rgb(57, 60, 65);
-  
-  
 }
 .PrimaryButton2 {
   width: 264px;
@@ -487,8 +485,8 @@ color: black;} */
   font-size: 14px;
   color: aliceblue;
 }
-#Footertext{
-  width:100vw;
+#Footertext {
+  width: 100vw;
   height: 50px;
   position: absolute;
   padding-bottom: 0%;
@@ -496,7 +494,7 @@ color: black;} */
   align-items: center;
   justify-content: center;
 }
-#PrimaryButtonsol10{
+#PrimaryButtonsol10 {
   width: 264px;
   height: 40px;
   border: 2px solid white;
@@ -504,6 +502,6 @@ color: black;} */
   font-size: 14px;
   color: rgb(57, 60, 65);
 }
-#bannerdetails{
-text-decoration: underline;
+#bannerdetails {
+  text-decoration: underline;
 }

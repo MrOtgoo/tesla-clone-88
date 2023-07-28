@@ -1,51 +1,57 @@
 @media only screen and (max-width: 600px) {
   .item {
-    display:none}
-    body {
-      background-color: red;
-    }
-  
-    .item {
-      display:none;
-    }
-    #bannerContainer {width:100vw;
-      height: 92px;
-      display: flex;
-      flex-direction: column-reverse;
-      font-size:smaller
-    }
-    #bannerCreditText{display: flex;
-      flex-direction: column-reverse;
-      font-size:smaller
-    }}
-    #Model3 {
-      background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Mobile-NA.jpg");
-      background-size: cover;
-      background-attachment: fixed;
-      position: relative;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-  #ModelY { background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_2100,w_800,c_fit,f_auto,q_auto:best/Homepage-ModelY-LHD-Mobile");
-      width: 100vw;
-      height: 100vh;
-      background-size: cover;
-      background-attachment: fixed;
-      position: relative;
-      display: flex;
-      justify-content: center;
-      align-items: center;}
+    display: none;
+  }
+  body {
+    background-color: red;
+  }
+
+  .item {
+    display: none;
+  }
+  #bannerContainer {
+    width: 100vw;
+    height: 92px;
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: smaller;
+  }
+  #bannerCreditText {
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: smaller;
+  }
+
+  #Model3 {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Mobile-NA.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #ModelY {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_2100,w_800,c_fit,f_auto,q_auto:best/Homepage-ModelY-LHD-Mobile");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   #ModelS {
-        background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Mobile-LHD-6.22.jpg");
-        width: 100vw;
-        height: 100vh;
-        background-size: cover;
-        background-attachment: fixed;
-        position: relative;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Mobile-LHD-6.22.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   #ModelX {
     background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1700,w_800,c_fit,f_auto,q_auto:best/Homepage-Model-X-Mobile-LHD_001");
@@ -78,18 +84,18 @@
     position: relative;
     display: flex;
     justify-content: center;
-    align-items: center;}
+    align-items: center;
+  }
   #Accessoris {
-      background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Mobile-NA-APAC.jpg");
-      width: 100vw;
-      height: 100vh;
-      background-size: cover;
-      background-attachment: fixed;
-      position: relative;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-  
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Mobile-NA-APAC.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   #logo {
     width: 120px;
@@ -109,10 +115,11 @@
     align-items: center;
     justify-content: center;
   }
-#ModelSbuttonContainer{display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  justify-content: space-between;}
+  #ModelSbuttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 }
-

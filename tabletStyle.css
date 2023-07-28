@@ -1,0 +1,103 @@
+@media only screen and (min-width: 820px) and (max-width: 1118px) {
+  body {
+    background-color: red;
+  }
+
+  .item {
+    display:none;
+  }
+  #bannerContainer {
+    display: flex;
+    font-size: small;
+  }
+  #Model3 {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Mobile-NA.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+#ModelY { background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_2100,w_800,c_fit,f_auto,q_auto:best/Homepage-ModelY-LHD-Mobile");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+#ModelS {
+      background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Mobile-LHD-6.22.jpg");
+      width: 100vw;
+      height: 100vh;
+      background-size: cover;
+      background-attachment: fixed;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+#ModelX {
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1700,w_800,c_fit,f_auto,q_auto:best/Homepage-Model-X-Mobile-LHD_001");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#SOLAR {
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1576,w_600,c_fit,f_auto,q_auto:best/Homepage-SolarPanels-Mobile");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#powerwall {
+  background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Mobile-NA-APAC.jpg");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;}
+#Accessoris {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Mobile-NA-APAC.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#logo {
+  width: 120px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+}
+#bannerContainer {
+  width: 100vw;
+  height: 53px;
+  background-image: radial-gradient(
+    54.97% 272.54% at 27.36% -134.72%,
+    rgba(108, 148, 255, 0.92) 0,
+    rgba(0, 0, 0, 0.92) 100%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}}
